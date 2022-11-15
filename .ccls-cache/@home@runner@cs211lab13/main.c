@@ -11,6 +11,7 @@
 #include <stdlib.h>		// for srand
 
 
+//comment for githubb
 //--------------------------------------------------------------------------------
 void displayCave()
 {
@@ -80,7 +81,7 @@ void displayInstructions()
         	"Good luck!                                                                      \n"
         	" \n\n");
 }//end displayInstructions()
-
+ 
 void displayElements(int elements[7])
 {
 	printf( "Cheating! Game elements are in the following rooms: \n"
